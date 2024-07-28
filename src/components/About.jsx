@@ -10,10 +10,10 @@ const About = () => (
     </p>
     <h3>Skills</h3>
     <ul>
-      <li>Frontend: React, Angular, HTML, CSS, JavaScript</li>
+      <li>Frontend: React, HTML, CSS, JavaScript</li>
       <li>Backend: Node.js, Express, Python, Django</li>
       <li>Databases: MongoDB, MySQL, PostgreSQL</li>
-      <li>Tools: Git, Docker, Jenkins</li>
+      <li>Tools: Git, Docker</li>
       <li>Cloud: AWS, Azure</li>
     </ul>
   </section>
